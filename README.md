@@ -19,4 +19,4 @@ I work on web-based software that includes both back/front-end frameworks. Usual
 
 Currently, I am working at Travis CI. So, don't hesitate to ask me about the Travis CI platform, your workflow, and CI/CD methods. 
 
-To see my past experiences and to connect me on [LinkedIn](https://www.linkedin.com/in/mustafaergul/)
+To see my past experiences and you can connect me on [LinkedIn](https://www.linkedin.com/in/mustafaergul/)
